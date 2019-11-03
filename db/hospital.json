@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Enjektor ve igneler",
+      "price": 25,
+      "categoryId": 1,
+      "description": "Stok : 2000 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/10/SET_INJECT_Tek_K_4d7e72f960983-300x180.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lithium Heparin Tupler",
+      "price": 10,
+      "categoryId": 2,
+      "description": "Stok : 15000 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/10/EDTA____l___T__p_4d7e8fa2e39af-300x180.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kelebek Kanon",
+      "price": 5,
+      "categoryId": 3,
+      "description": "Stok : 3000 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/10/IV_Kelebek_Kan___4e480242b5f2b-300x180.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Perfuzyon Pompa",
+      "price": 300,
+      "categoryId": 4,
+      "description": "Stok : 10 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/10/Perf__zyon_Pompa_50476ea6ca03f-1-300x180.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nursing Makas",
+      "price": 35,
+      "categoryId": 5,
+      "description": "Stok : 400 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/11/Makaslar_Standar_4d76aca59ef65-300x180.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Serviyet Pens",
+      "price": 25,
+      "categoryId": 6,
+      "description": "Stok : 400 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/11/Serviyet_Pensler_4d77d74f32c33-300x180.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Verbrugge Kemik Tutma Pensi",
+      "price": 250,
+      "categoryId": 1,
+      "description": "Stok : 200 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Kemik_tutma_pens_504c8e7f1f5dd-300x180.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pansuman Makas",
+      "price": 15,
+      "categoryId": 2,
+      "description": "Stok : 200 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2015/11/20_cm_pansuman_m_4d77aee47b027-300x180.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gazli Bez",
+      "price": 8,
+      "categoryId": 1,
+      "description": "Stok : 5000 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Gazl___Bezler_50548c1671b09-300x180.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bandaj",
+      "price": 12,
+      "categoryId": 2,
+      "description": "Stok : 3750 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/VET_FLEX_Bandaj_4d8f2b957cadd-300x180.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Flaster",
+      "price": 2,
+      "categoryId": 1,
+      "description": "Stok : 750 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Flasterler_4d8fa0546fd53-300x180.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gaz Kompres",
+      "price": 7,
+      "categoryId": 2,
+      "description": "Stok : 1000 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/7_5x7_5cm_8_Kat__4d8f9bd71d559-300x180.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ecovet",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Stok : 20 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/ECOVET_4e026ea32b66c-300x180.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Opsystem",
+      "price": 2850,
+      "categoryId": 2,
+      "description": "Stok : 30 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/OPSYSTEM_4e032d149c8c3-300x180.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Otoklav",
+      "price": 650,
+      "categoryId": 1,
+      "description": "Stok : 200 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Euroseal_Otoklav_4e8c8808a13ea-300x180.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ferreskop",
+      "price": 10,
+      "categoryId": 2,
+      "description": "Stok : 50 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Ferreskop_dedekt_4e8ca52548701-300x180.jpg"
+    },
+    {
+      "id": 17,
+      "name": "VMEC",
+      "price": 100,
+      "categoryId": 2,
+      "description": "Stok : 5 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Model_VMEC_4e95de5f4cc28-254x300.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Antibiyogram Test",
+      "price": 40,
+      "categoryId": 2,
+      "description": "Stok : 30 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Antibiyogram_Tes_4e8cca6d1c524-254x300.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Renkli Doppler",
+      "price": 2000,
+      "categoryId": 2,
+      "description": "Stok : 3 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/EXAGO_Renkli_Dop_4e95bc9f4aaea-277x300.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rontgen",
+      "price": 1000,
+      "categoryId": 2,
+      "description": "Stok : 2 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/R__ntgen_Banyo_M_4e95935c69eaf-254x300.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Examion 3X",
+      "price": 7500,
+      "categoryId": 1,
+      "description": "Stok : 2 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/EXAMION_CR_3X_PR_4e95aef329775-300x180.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Steteskop",
+      "price": 50,
+      "categoryId": 1,
+      "description": "Stok : 100 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Steteskoplar_4e8ca0396ffec-300x180.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Endolux",
+      "price": 550,
+      "categoryId": 1,
+      "description": "Stok : 12 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Fiberoptik_______4e960e9d44ae2-300x180.jpg"
+    },
+    {
+      "id": 24,
+      "name": "DR Rontgen",
+      "price": 1000,
+      "categoryId": 2,
+      "description": "Stok : 2 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/DR_1417_4e959ef71687a-300x180.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Ultrasonagrofi",
+      "price": 750,
+      "categoryId": 1,
+      "description": "Stok : 5 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/AGROSCAN_A14_Ult_4e95bb4270221-300x180.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Yasam Kabini",
+      "price": 650,
+      "categoryId": 1,
+      "description": "Stok : 20 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Ya__am_Kabinleri_4ea047206da58-300x180.jpg"
+    },
+    {
+      "id": 27,
+      "name": "X-RAY",
+      "price": 4000,
+      "categoryId": 1,
+      "description": "Stok : 5 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/X_Ray_4e06279977559-300x180.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Kan Basma Monitor",
+      "price": 1000,
+      "categoryId": 2,
+      "description": "Stok : 20 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Kan_Bas__n___Mon_4e1b0a44233a9-300x180.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Aesculight",
+      "price": 1250,
+      "categoryId": 1,
+      "description": "Stok : 40 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/Aesculight_CO2_L_4e4d68b7dc7e6-300x283.jpg"
+    },
+    {
+      "id": 30,
+      "name": "DXT-35",
+      "price": 1000,
+      "categoryId": 2,
+      "description": "Stok : 200 adet",
+      "clinicname": "Genel Cerrahi",
+      "imageUrl": "http://www.mvm.com.tr/mvm/wp-content/uploads/2016/01/KRUTECH_Televet__4e023bd04f99b-1-300x180.jpg"
+    },
+    {
+      "name": "Rontgen XT35",
+      "description": "2 Adet",
+      "imageUrl": "https://yandex.com.tr/gorsel/search?pos=2&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDKVJNR1X0AEUXuA.jpg&text=r%C3%B6ntgen&rpt=simage",
+      "price": "7500",
+      "categoryId": "6",
+      "id": 31
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Dahiliye"
+    },
+    {
+      "id": 2,
+      "name": "Genel Cerrahi"
+    },
+    {
+      "id": 3,
+      "name": "Kalp Damar"
+    },
+    {
+      "id": 4,
+      "name": "Romatoloji"
+    },
+    {
+      "id": 5,
+      "name": "Fizik Tedavi"
+    },
+    {
+      "id": 6,
+      "name": "Ortopedi"
+    }
+  ]
+}
